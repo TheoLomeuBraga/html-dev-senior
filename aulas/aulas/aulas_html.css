@@ -1,0 +1,46 @@
+.A{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    width: 200px;
+    height: 200px;
+    color:red;
+    background-color: red;
+}
+
+.B{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    width: 200px;
+    height: 200px;
+    color:green;
+    background-color: green;
+}
+
+.C{
+    position: absolute;
+    top: 80%;
+    left: 40%;
+    width: 200px;
+    height: 200px;
+    color:blue;
+    background-color: blue;
+}
+
+.D{
+    position: absolute;
+    top: 80%;
+    left: 20%;
+    width: 200px;
+    height: 200px;
+    color:black;
+    background-color: black
+}
+
+.E{
+    width: 100%;
+    height: 100%;
+    color:orange;
+    background-color: orange
+}

@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(53, 154, 154);
+    
+}
+.centralisador{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imagem_boas_vindas{
+    position:relative;
+    border-radius: 10px;
+    width: 50%;
+    height: 50%;
+    
+    
+} 
+.Bloco_central{
+    background-color: white;
+    width: 600px;
+    height: 450px;
+    
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+} 
+.imagem_boas_vindas{
+    position:relative;
+    border-radius: 10px;
+    width: 50%;
+    height: 50%;
+    
+} 
+.invisivel{
+    color: rgba(0, 0, 0, 0);
+}
+.senhas{
+    
+    background-color: rgb(55, 163, 240);
+    border-radius: 10px;
+    right: 50%;
+}
+.botao{
+    background-color: rgb(0, 55, 255);
+    color: aliceblue;
+    border-radius: 20px;
+}
